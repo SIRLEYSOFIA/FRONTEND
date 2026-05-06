@@ -1,0 +1,10 @@
+export const APP_NAME = 'SuperPOS'
+export const COMPANY_NAME = 'SuperMarket XYZ'
+export const COMPANY_TAX_ID = '900-XXX-XXX'
+export const DEFAULT_TAX_RATE = 0.08 // 8%
+export const SESSION_TIMEOUT_MS = 10 * 60 * 1000 // 10 minutes
+export const SEARCH_DEBOUNCE_MS = 200
+export const MAX_ACTIVE_ORDERS = 10
+export const SUPERVISOR_DISCOUNT_THRESHOLD = 20 // percent
+export const LOW_STOCK_THRESHOLD = 5
+export const SYNC_RETRY_INTERVAL_MS = 30_000

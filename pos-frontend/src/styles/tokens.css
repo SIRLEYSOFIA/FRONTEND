@@ -1,0 +1,48 @@
+/* ============================================================
+   DESIGN TOKENS
+   ============================================================ */
+:root {
+  --color-primary:      #1A73E8;
+  --color-primary-dark: #1557B0;
+  --color-success:      #1E8A4C;
+  --color-success-dark: #166638;
+  --color-danger:       #D32F2F;
+  --color-danger-dark:  #B71C1C;
+  --color-warning:      #F57C00;
+  --color-neutral-900:  #1C1C1E;
+  --color-neutral-700:  #3A3A3C;
+  --color-neutral-500:  #636366;
+  --color-neutral-400:  #9E9E9E;
+  --color-neutral-200:  #E5E5EA;
+  --color-neutral-100:  #F2F2F7;
+  --color-surface:      #F5F5F5;
+  --color-card:         #FFFFFF;
+
+  --font-heading: 'Segoe UI', system-ui, sans-serif;
+  --font-body:    'Segoe UI', system-ui, sans-serif;
+  --font-mono:    'Consolas', 'Courier New', monospace;
+
+  --size-xs:   12px;
+  --size-sm:   14px;
+  --size-base: 16px;
+  --size-lg:   18px;
+  --size-xl:   22px;
+  --size-2xl:  28px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+
+  --shadow-card:  0 1px 4px rgba(0,0,0,0.10);
+  --shadow-modal: 0 8px 32px rgba(0,0,0,0.22);
+  --shadow-btn:   0 2px 6px rgba(0,0,0,0.15);
+}
